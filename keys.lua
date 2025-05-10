@@ -1,3 +1,3 @@
 return {
-    ["KEY-7KIO-CFHVG1"] = ""game:GetService("RbxAnalyticsService"):GetClientId()"",
+    ["KEY-7KIO-CFHVG1"] = nil,
 }
