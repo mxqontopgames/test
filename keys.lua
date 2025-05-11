@@ -1,4 +1,4 @@
 return {
     ["KEY-7KIO-CFHVG1"] = nil,
-    ["KEY-JRO9-Q80WZT"] = "012D88AC-E9B6-4BAF-95DB-833AE53056C9",
+    ["KEY-JRO9-Q80WZT"] = nil,
 }
