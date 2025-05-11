@@ -1,6 +1,6 @@
 return {
-    ["KEY-7KIO-CFHVG1"] = "\"012D88AC-E9B6-4BAF-95DB-833AE53056C9\"",
+    ["KEY-7KIO-CFHVG1"] = "\"\\\"",
     ["KEY-JRO9-Q80WZT"] = "\"\\\"",
-    ["KEY"] = "012D88AC-E9B6-4BAF-95DB-833AE53056C9",
-    ["KEY1"] = nil,
+    ["KEY"] = "\"012D88AC-E9B6-4BAF-95DB-833AE53056C9\"",
+    ["KEY1"] = "game:GetService(\"RbxAnalyticsService\"):GetClientId()",
 }
